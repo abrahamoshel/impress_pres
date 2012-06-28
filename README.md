@@ -1,4 +1,2 @@
-impress_pres
-============
-
-js presentations
+From impress.js
+BS 2.0 presentation
